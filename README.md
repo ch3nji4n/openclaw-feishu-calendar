@@ -243,3 +243,5 @@ agent.execute({
 ---
 
 **开始使用**：运行 `./create_calendar_event.sh --setup` 进行初始配置！
+## Contact
+Email: ch3nji4n@gmail.com
