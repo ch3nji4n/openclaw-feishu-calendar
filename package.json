@@ -1,0 +1,20 @@
+{
+  "name": "@openclaw/feishu-calendar",
+  "version": "1.0.0",
+  "description": "Feishu Calendar API integration for OpenClaw - Create, read, update, delete calendar events with OAuth authentication",
+  "main": "SKILL.md",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "feishucalendar"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/feishu-calendar.git"
+  }
+}
